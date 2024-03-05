@@ -65,4 +65,8 @@ class LivreController
 
         require "views/livres.view.php";
     }
+
+    public function ajout(){
+
+    }
 }
