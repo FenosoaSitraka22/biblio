@@ -3,7 +3,7 @@
 
  <head>
      <title></title>
-     <link rel="stylesheet" href="<?= URL ?>public/css/main.css">
+     <link rel="stylesheet" href="<?= URL ?>/public/css/main.css">
  </head>
 
  <body>
@@ -27,6 +27,7 @@
          <h1><?= $titre ?></h1>
          <?= $content ?>
      </div>
+     <script src="<?= URL ?>public/js/main.js"></script>
  </body>
 
  </html>

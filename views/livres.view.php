@@ -1,7 +1,7 @@
 <?php
 ob_start();
 ?>
-<h1>TEST</h1>
+<a href="<?= URL ?>/livres/a" class="btn__link">Ajouter une livre</a>
 <table>
     <thead>
         <th>Id</th>
