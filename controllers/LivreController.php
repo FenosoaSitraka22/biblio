@@ -69,4 +69,7 @@ class LivreController
     public function ajout(){
 
     }
+    public function del(){
+        
+    }
 }
